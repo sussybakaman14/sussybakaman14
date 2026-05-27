@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on C virus and antivirus
-- 🌱 I’m currently learning HTML, JS, C, Python, CSS, Java,...
+- 🌱 I’m currently learning HTML,
 - 👯 I'm trying to collaborate on nothing
 - 🤔 I’m looking for help with C, C#, C++ malwares
 - 💬 Ask me about HTML
